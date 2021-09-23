@@ -1,6 +1,6 @@
 import axios from 'axios'
 const api = axios.create({
-    baseURL:'beatrizgfdevschool.netlify.app'
+    baseURL:'https://api-da-bia.herokuapp.com/'
 })
 
 
