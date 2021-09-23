@@ -37,9 +37,7 @@ export default function Index() {
             loading.current.complete();
         }
 
-        const App = () => {
-            const ref = useRef(null)
-        }
+ 
 
         async function inserirAluno() {
             loading.current.continuousStart();
